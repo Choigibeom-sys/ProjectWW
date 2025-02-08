@@ -6,7 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/00_Maps/Map_WareHouse.umap"
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/00_Maps/Map_WareHouse.umap",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/BP_Projectile.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel_Light.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel_Heavy.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/IndustryPropsPack6/Meshes/SM_WaterTank01_Blueprint.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/BP_Barrel_Heavy.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/BP_Barrel_Light.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/BP_Waterbox_SHeavy.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/00_Maps/TestMap.umap",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/00_Maps/Main.umap",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/BP_Rack.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/BP_Barrel.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/Legacy/BP_Barrel_Light.uasset",
+				"C:/Unreal/Projects/ProjectWW/WareHouseWreckage/Content/WareHouseWreckage/01_object/SM_WaterTank01_Blueprint.uasset"
 			]
 		}
 	]
